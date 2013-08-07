@@ -9,9 +9,9 @@ SISTEMA
 
 EQUIPE
 
-  Ândrei d'Oliveira Mesquita Schuch - andreirs@outlook.com
-  Leon Dias - leondias44@hotmail.com
-  Bruno La Porta Welausen - brunolpw@outlook.com
+  Ândrei d'Oliveira Mesquita Schuch - andreirs@outlook.com .
+  Leon Dias - leondias44@hotmail.com .
+  Bruno La Porta Welausen - brunolpw@outlook.com .
 
 RESUMO
 
