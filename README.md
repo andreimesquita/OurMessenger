@@ -22,7 +22,7 @@
     Leon Dias - leondias44@hotmail.com    
 ## REQUISÍTOS FUNCIONAIS
 
-    O software deve permitir o usuário se cadastre.
+    O software deve permitir o cadastro de usuário.
     O software deve permitir que o usuário altere sua senha.
     O software deve permitir que o usuário recupere sua senha.
     O software deve permitir que o usuário altere suas configurações de perfil.
